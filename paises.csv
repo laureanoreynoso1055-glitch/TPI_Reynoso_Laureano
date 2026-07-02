@@ -1,21 +1,84 @@
 nombre,poblacion,superficie,continente
-Argentina,47500000,34789543,América
+Argentina,45376763,2780400,América
 Brasil,213993437,8515767,América
 Estados Unidos,331002651,9833517,América
 México,128932753,1964375,América
 Canadá,38005238,9984670,América
+Chile,19116201,756096,América
+Colombia,50882891,1141748,América
+Perú,32971854,1285216,América
+Venezuela,28435940,916445,América
+Ecuador,17643054,256370,América
+Bolivia,11673021,1098581,América
+Paraguay,7132538,406752,América
+Uruguay,3473730,176215,América
+Cuba,11326616,109884,América
+Guatemala,17915568,108889,América
+Costa Rica,5094118,51100,América
+Panamá,4314767,75417,América
+República Dominicana,10847910,48671,América
 Japón,125800000,377975,Asia
 China,1411778724,9596961,Asia
 India,1380004385,3287263,Asia
 Corea del Sur,51780579,100210,Asia
+Indonesia,273523615,1904569,Asia
+Pakistán,220892340,881912,Asia
+Bangladés,164689383,147570,Asia
+Filipinas,109581078,300000,Asia
+Vietnam,97338579,331212,Asia
+Tailandia,69799978,513120,Asia
+Irán,83992949,1648195,Asia
+Irak,40222493,438317,Asia
+Arabia Saudita,34813871,2149690,Asia
+Israel,8655535,20770,Asia
+Turquía,84339067,783562,Asia
+Malasia,32365999,330803,Asia
+Singapur,5850342,728,Asia
+Emiratos Árabes Unidos,9890402,83600,Asia
+Kazajistán,18776707,2724900,Asia
 Alemania,83149300,357022,Europa
 Francia,67391582,551695,Europa
 España,47351567,505992,Europa
 Italia,59554023,301340,Europa
 Reino Unido,67215293,242495,Europa
+Rusia,145934462,17098242,Europa
+Países Bajos,17134872,41850,Europa
+Bélgica,11589623,30528,Europa
+Suecia,10099265,450295,Europa
+Noruega,5421241,385207,Europa
+Suiza,8654622,41284,Europa
+Portugal,10196709,92090,Europa
+Polonia,37846611,312696,Europa
+Grecia,10423054,131957,Europa
+Austria,9006398,83871,Europa
+Irlanda,4937786,70273,Europa
+Dinamarca,5792202,43094,Europa
+Finlandia,5540720,338424,Europa
+Ucrania,43733762,603550,Europa
+Rumania,19237691,238398,Europa
+Hungría,9660351,93028,Europa
+República Checa,10708981,78865,Europa
 Egipto,102334404,1010408,África
 Nigeria,206139589,923768,África
 Sudáfrica,59308690,1221037,África
+Etiopía,114963588,1104300,África
+Kenia,53771296,580367,África
+Marruecos,36910560,446550,África
+Argelia,43851044,2381741,África
+Angola,32866272,1246700,África
+Ghana,31072940,238533,África
+Tanzania,59734218,945087,África
+Uganda,45741007,241550,África
+Mozambique,31255435,801590,África
+Túnez,11818619,163610,África
+Senegal,16743927,196722,África
+Camerún,26545863,475442,África
+Madagascar,27691018,587041,África
+República Democrática del Congo,89561403,2344858,África
 Australia,25687041,7692024,Oceanía
 Nueva Zelanda,5084300,268021,Oceanía
-Dinamarca,233433,2342,Europa
+Papúa Nueva Guinea,8947024,462840,Oceanía
+Fiyi,896445,18274,Oceanía
+Islas Salomón,686884,28896,Oceanía
+Samoa,198414,2842,Oceanía
+Vanuatu,307145,12189,Oceanía

@@ -16,7 +16,7 @@ Cuba,11326616,109884,América
 Guatemala,17915568,108889,América
 Costa Rica,5094118,51100,América
 Panamá,4314767,75417,América
-República Dominicana,10847910,48671,América
+R.Dominicana,10847910,48671,América
 Japón,125800000,377975,Asia
 China,1411778724,9596961,Asia
 India,1380004385,3287263,Asia
@@ -34,7 +34,7 @@ Israel,8655535,20770,Asia
 Turquía,84339067,783562,Asia
 Malasia,32365999,330803,Asia
 Singapur,5850342,728,Asia
-Emiratos Árabes Unidos,9890402,83600,Asia
+Emiratos.A.U,9890402,83600,Asia
 Kazajistán,18776707,2724900,Asia
 Alemania,83149300,357022,Europa
 Francia,67391582,551695,Europa
@@ -74,7 +74,7 @@ Túnez,11818619,163610,África
 Senegal,16743927,196722,África
 Camerún,26545863,475442,África
 Madagascar,27691018,587041,África
-República Democrática del Congo,89561403,2344858,África
+República.D.Congo,89561403,2344858,África
 Australia,25687041,7692024,Oceanía
 Nueva Zelanda,5084300,268021,Oceanía
 Papúa Nueva Guinea,8947024,462840,Oceanía
@@ -82,3 +82,4 @@ Fiyi,896445,18274,Oceanía
 Islas Salomón,686884,28896,Oceanía
 Samoa,198414,2842,Oceanía
 Vanuatu,307145,12189,Oceanía
+inglaterra,1241341414,342412,Europa

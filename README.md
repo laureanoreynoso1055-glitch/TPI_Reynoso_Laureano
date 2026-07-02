@@ -44,7 +44,7 @@ en el CSV, búsquedas sin resultados, etc.).
 ```
 .
 ├── main.py        # Programa principal (menú y todas las funciones)
-├── paises.csv     # Dataset base (20 países de los 5 continentes)
+├── paises.csv     # Dataset base (83 países de los 5 continentes)
 └── README.md      # Este archivo
 ```
 
